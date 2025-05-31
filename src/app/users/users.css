@@ -1,0 +1,28 @@
+.user-photo {
+  height: 450px;
+  width: 100%;
+  object-fit: cover;
+  padding: 10px;
+}
+
+.card {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+}
+
+.card-body {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.card-title {
+  color: #fff;
+}
+
+.card-text {
+  color: #ccc;
+}
+
+.card-text strong {
+  color: #fff;
+}
